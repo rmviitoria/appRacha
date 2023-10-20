@@ -1,4 +1,4 @@
-# APP Racha
+# APP Racha 👥
 
 ## Sobre o projeto
 - Aplicativo para calcular o valor de um preço divido por um determinado número de pessoas, ou seja, um racha
